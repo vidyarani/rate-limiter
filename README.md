@@ -7,5 +7,5 @@ This is a minimal Maven-based Java project created in the workspace.
 ```bash
 cd rate-limiter
 mvn test
-mvn exec:java -Dexec.mainClass=com.example.App
+mvn exec:java -Dexec.mainClass=com.ratelimiter.App
 ```

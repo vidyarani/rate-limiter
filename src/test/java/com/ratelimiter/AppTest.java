@@ -1,4 +1,4 @@
-package com.example;
+package com.ratelimiter;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
